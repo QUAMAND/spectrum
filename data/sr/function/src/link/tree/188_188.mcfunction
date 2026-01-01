@@ -1,0 +1,1 @@
+data modify storage sr:output hex set value "bc"

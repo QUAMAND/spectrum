@@ -1,1 +1,1 @@
-$data modify storage sr:raw text append value {text:"$(text)",color:"#$(r1)$(r2)$(g1)$(g2)$(b1)$(b2)"}
+$data modify storage sr:raw text append value {text:"$(text)",color:"#$(r)$(g)$(b)"}

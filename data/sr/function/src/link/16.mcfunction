@@ -1,6 +1,0 @@
-$data modify storage sr:output color.r1 set from storage sr: 16[$(hr1)]
-$data modify storage sr:output color.r2 set from storage sr: 16[$(hr2)]
-$data modify storage sr:output color.g1 set from storage sr: 16[$(hg1)]
-$data modify storage sr:output color.g2 set from storage sr: 16[$(hg2)]
-$data modify storage sr:output color.b1 set from storage sr: 16[$(hb1)]
-$data modify storage sr:output color.b2 set from storage sr: 16[$(hb2)]
